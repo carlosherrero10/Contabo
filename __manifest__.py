@@ -5,7 +5,7 @@
     'name': 'Sales',
     'version': '1.1',
     'category': 'Sales',
-    'summary': 'Sales internal machinery',
+    'summary': 'Primera modificacion - Sales internal machinery',
     'description': """
 This module contains all the common features of Sales Management and eCommerce.
     """,
